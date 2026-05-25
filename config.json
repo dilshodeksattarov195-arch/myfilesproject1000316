@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdetch",
+        "uuid": 2530528,
+        "checksum": "v862il"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
